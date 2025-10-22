@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+publish/
+
+# Backup
+*.pdb
+*.exe
+*.dll
+*.log
+
+# System
+Thumbs.db
+desktop.ini
